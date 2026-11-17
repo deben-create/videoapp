@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="youtube_player_height">220dp</dimen>
+    <dimen name="video_thumbnail_height">180dp</dimen>
+    <dimen name="category_icon_size">48dp</dimen>
+    <dimen name="channel_avatar_size">36dp</dimen>
+    <dimen name="channel_avatar_size_large">40dp</dimen>
+    <dimen name="player_control_height">56dp</dimen>
+    <dimen name="bottom_sheet_height">300dp</dimen>
+</resources>
